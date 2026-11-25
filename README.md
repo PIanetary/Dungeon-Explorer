@@ -4,3 +4,6 @@ This is my game in google slides, its a little laggy and consists of 5 slideshow
 <img width="995" height="563" alt="image" src="https://github.com/user-attachments/assets/64f68575-4752-4227-9f47-17f91bc3f509" />
 Link to the game:
 https://docs.google.com/presentation/d/1TFY8hjiKlqR1hKA7lcsFImIBVnrO4B-EJRIEgHar_gc/present?slide=id.h2348664d33b124b1_18_0#slide=id.h2348664d33b124b1_18_0
+
+# Powerpoint Version:
+[Dungeon Explorer.pptx](https://github.com/user-attachments/files/35435238/Dungeon.Explorer.pptx)
