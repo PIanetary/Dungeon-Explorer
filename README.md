@@ -6,4 +6,5 @@ Link to the game:
 https://docs.google.com/presentation/d/1TFY8hjiKlqR1hKA7lcsFImIBVnrO4B-EJRIEgHar_gc/present?slide=id.h2348664d33b124b1_18_0#slide=id.h2348664d33b124b1_18_0
 
 # Powerpoint Version:
+Once you enter the powerpoint, click slideshow on the top left and then click "from beginning" to play
 [Dungeon Explorer.pptx](https://github.com/user-attachments/files/35435238/Dungeon.Explorer.pptx)
